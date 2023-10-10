@@ -1,0 +1,16 @@
+---
+title: "Development of Bayesian and Formal Demography approaches to unveil historical fertility patterns using online genealogical data"
+author: "Riccardo Omenti"
+date: "2023-10-02"
+output: pdf_document
+---
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r}
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
