@@ -1,1 +1,1 @@
-# Bayesian modelling approach to measure historical fertility patterns from online genealogical data
+# Reproducible material for paper: 'Bayesian indirect estimation of historical fertility in Europe and US using online genealogical data'
