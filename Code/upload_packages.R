@@ -1,3 +1,5 @@
+#### Code to upload all relavant libraries ####
+
 rm(list = ls())
 
 library_upload = function (package1, ...) {
@@ -21,7 +23,8 @@ packages  = c("here", "data.table", "tidyverse", "reshape2","mapdata",
               "purrr","h2o","readxl","cowplot","kableExtra","hrbrthemes",
               "plotly","LearnBayes","assertthat","readr","babynames","viridis",
               "zoo",'corrr','rstan','nimble','nimbleHMC','splines',
-              'MCMCvis','parallel','mgcv','patchwork','ggthemes')
+              'MCMCvis','parallel','mgcv','patchwork','ggthemes','knitr','kableExtra',
+              'gt')
 
 library_upload(packages)
 
