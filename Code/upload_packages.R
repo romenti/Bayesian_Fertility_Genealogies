@@ -24,7 +24,7 @@ packages  = c("here", "data.table", "tidyverse", "reshape2","mapdata",
               "plotly","LearnBayes","assertthat","readr","babynames","viridis",
               "zoo",'corrr','rstan','nimble','nimbleHMC','splines',
               'MCMCvis','parallel','mgcv','patchwork','ggthemes','knitr','kableExtra',
-              'gt')
+              'gt','cowplot')
 
 library_upload(packages)
 
