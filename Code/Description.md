@@ -1,4 +1,4 @@
-The folder contains all the R scripts needed to reproduce the results of the paper. Specifically,
+The folder contains all the R scripts needed to reproduce the results of the paper. 
 
 - **upload_packages.R** is needed to upload all the relevant packages needed in the data analysis
 - **Indirect_Estimation.R** implements the indirect TFR estimation and the bias-adjustment
